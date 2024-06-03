@@ -1,0 +1,23 @@
+
+
+body {
+    background: whitesmoke;
+    height: 50vh;
+    margin: 0;
+    display: flex;
+}
+main {
+    background: white;
+    width: 500px;
+    height: 520px;
+    display: flex;
+   margin: auto;
+}
+aside {
+    width: 18rem;
+    height: 18rem;
+    background: red;
+    border-radius:500rem;
+    margin: auto;
+    
+}
